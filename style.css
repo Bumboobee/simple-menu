@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,300&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lato';
+}
+
+.card-header {
+    align-self: flex-end;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+}
+
+body {
+    text-align: center;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
