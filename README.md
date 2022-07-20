@@ -9,9 +9,9 @@ Only used **HTML** and *1*([Bootstrap](https://getbootstrap.com/))**
 Click **[➡here⬅](https://bumboobee.github.io/simple-menu/)** to see the project.
 
 <div align="center">
+  
+![food-good](https://user-images.githubusercontent.com/94147847/180047361-c807b8d7-d415-4d23-816c-a34e406ed6c1.gif)
 
-[![giphy](https://user-images.githubusercontent.com/94147847/156360001-3682b0a7-a7d0-4c93-99d1-fb680b11793c.gif)](https://bumboobee.github.io/IphonePage/)
-
-> Your time is limited, so don't waste it living someone else's life.
->> **Steve Paul Jobs**  
+> A balanced diet is a cookie in each hand.
+>> **Barbara Johnson**  
 <div/>
